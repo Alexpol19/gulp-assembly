@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"list-syle",
+				"list-style-type\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Learning Web/First_project_EO/css/style.css",
+		"/D/Learning Web/Shabloni Html.Css/Transform Background.html",
+		"/D/Learning Web/Shabloni Html.Css/style_transform_bg.css",
+		"/D/Learning Web/Shabloni Html.Css/Nomera stranits dlea perekliuceniea.html",
+		"/D/Learning Web/Shabloni Html.Css/Instruktsiea po sozdaniiu animatsii.html",
+		"/D/Learning Web/Shabloni Html.Css/Animation-neskoliko kliucevih kadrov.html",
+		"/D/Learning Web/Shabloni Html.Css/Animation-2 kliucevih kadra.html",
+		"/D/Learning Web/Shabloni Html.Css/kruglie izobaj with background.html",
+		"/D/Learning Web/Shabloni Html.Css/transition-vihod_kartinki_sboku.html",
+		"/D/Learning Web/Shabloni Html.Css/transition-plavnoe izm tsveta i teksta.html",
+		"/D/Learning Web/Shabloni Html.Css/transition-povorot img.html",
+		"/D/Learning Web/Shabloni Html.Css/transform-naklonniessilke.html",
+		"/D/Learning Web/Shabloni Html.Css/transform-izmenenie razmera pri navedenii.html",
+		"/D/Learning Web/Shabloni Html.Css/kruglie izobaj with borrder.html",
+		"/D/Learning Web/First_learn(htmlbok)/float.html",
+		"/D/Learning Web/First_learn(htmlbok)/style-float.css",
+		"/D/Learning Web/Shabloni Html.Css/kartinka-background input.html",
+		"/D/Learning Web/Shabloni Html.Css/nevidimaea ramka u izobrajneiea.html",
+		"/D/Learning Web/First_learn(htmlbok)/style-posit.css",
+		"/D/Learning Web/First_learn(htmlbok)/Position.html",
+		"/D/Learning Web/Shabloni Html.Css/Position.html",
+		"/D/Learning Web/First_learn(htmlbok)/Test.html",
+		"/D/Learning Web/First_learn(htmlbok)/BG.html",
+		"/D/Learning Web/Shabloni Html.Css/index-shablon+css.html",
+		"/D/Learning Web/Shabloni Html.Css/Gorizontalinoe meniu.html",
+		"/D/Learning Web/Shabloni Html.Css/Nispadaiushee meniu.html",
+		"/D/Learning Web/Shabloni Html.Css/Hlebnie kroski s pomoshiu spiska.html",
+		"/D/Learning Web/Shabloni Html.Css/Spisok s russkimi bukvami.html",
+		"/D/Learning Web/Shabloni Html.Css/li-marker with before-content.html",
+		"/D/Learning Web/Shabloni Html.Css/Background-marker у li.html",
+		"/D/Learning Web/Shabloni Html.Css/index-shablon+css",
+		"/D/Learning Web/program with jsbincom/jsbin.fadonawuti.1.html",
+		"/D/Learning Web/Verstka with psd/First site.html",
+		"/D/Learning Web/program with jsbincom/jsbin.kofiguwoqo.1.html",
+		"/D/Learning Web/program with jsbincom/formdata.php",
+		"/D/Learning Web/second.py",
+		"/D/Learning Web/program with jsbincom/jsbin.vowegedule.1 (1).html",
+		"/C/Users/ALex/Downloads/jsbin.vowegedule.1.html",
+		"/C/Users/ALex/Downloads/jsbin.dosaxevija.1 (2).html",
+		"/C/Users/ALex/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Learning Web/program with jsbincom/jsbin.dosaxevija.1 (1).html",
+		"/C/Users/ALex/AppData/Roaming/Sublime Text 3/Packages/User/newsystem.sublime-build",
+		"/C/Users/ALex/AppData/Roaming/Sublime Text 3/Packages/User/new.sublime-build",
+		"/D/first.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gulpfile.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
